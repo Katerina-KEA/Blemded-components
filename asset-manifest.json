@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blemded-components/static/css/main.17654e45.css",
+    "main.js": "/Blemded-components/static/js/main.e6b4776c.js",
+    "index.html": "/Blemded-components/index.html",
+    "main.17654e45.css.map": "/Blemded-components/static/css/main.17654e45.css.map",
+    "main.e6b4776c.js.map": "/Blemded-components/static/js/main.e6b4776c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.e6b4776c.js"
+  ]
+}
